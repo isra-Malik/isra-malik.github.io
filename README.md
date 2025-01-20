@@ -1,4 +1,4 @@
-# Isra Malik - Researcher
+# Isra Malik - CS Researcher
 
 ## About Me
 I hold a Master’s degree in Computer Science from COMSATS University Islamabad, where I specialized in deep learning and computer vision. My Master of Science thesis focused on developing a deep learning approach for classification of knee Osteoarthritis Severity Grading using Deep Convolutional Neural Network. I also completed MSc in Computer Science from University of Wah, excelling in areas like artificial intelligence, data structures, and machine learning, with my final year project involving the classification and identification of iris flowers. I have published more than four research papers in well-reputed Journals such as “Multimedia Tools and Applications”, “Diagnostics”, “Engineering Applications of Artificial Intelligence”, and “Pattern Recognition Letters”, respectively.
